@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wordonthestreetgame/static/css/main.685bc462.css",
+    "main.js": "/wordonthestreetgame/static/js/main.4bd38cbb.js",
+    "static/js/453.03687adf.chunk.js": "/wordonthestreetgame/static/js/453.03687adf.chunk.js",
+    "index.html": "/wordonthestreetgame/index.html",
+    "main.685bc462.css.map": "/wordonthestreetgame/static/css/main.685bc462.css.map",
+    "main.4bd38cbb.js.map": "/wordonthestreetgame/static/js/main.4bd38cbb.js.map",
+    "453.03687adf.chunk.js.map": "/wordonthestreetgame/static/js/453.03687adf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.685bc462.css",
+    "static/js/main.4bd38cbb.js"
+  ]
+}
